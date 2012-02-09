@@ -2,7 +2,12 @@ This is just a inital installation to prepare the enviroment for use
 installing the graisl 1.3.7 and grails2 || mysql5.1 || and java
 
 to successfully complete your installation
-you need to get the editbashrc file and the initial_installation.sh
+you need to give chmod +x initial_installation.sh
+run file with ./initial_installation.sh
 
+after all instalations 
+you need to edit bashrc 
+	example: vi /home/user/.bashrc
+and add the editbashrc content into the bashrc file
 
 bye
