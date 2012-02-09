@@ -18,7 +18,7 @@ clear
 touch grails
 clear
 wget https://raw.github.com/maxmustang/initial_instalation/master/files/editbashrc
-cat editbashrc >> .bashrc
+cat editbashrc >> ~/.bashrc
+clear
 sudo apt-get install mysql-server-5.1
 clear
-
