@@ -10,4 +10,10 @@ you need to edit bashrc
 	example: vi /home/user/.bashrc
 and add the editbashrc content into the bashrc file
 
+after all, to use the grails version 1.3.7
+just type grails1
+
+to use the version 2
+just type grails2
+
 bye
