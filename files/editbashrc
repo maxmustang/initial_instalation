@@ -1,6 +1,6 @@
 grails2(){
    rm ~/grails
-   ln -s ~/grails-2.0.0 ~/grails
+   ln -s ~/grails-2.0.3 ~/grails
 }
 
 grails1(){
