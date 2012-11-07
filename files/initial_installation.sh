@@ -8,12 +8,9 @@ clear
 sudo apt-get install groovy
 clear
 cd ~/
-wget http://dist.springframework.org.s3.amazonaws.com/release/GRAILS/grails-2.0.3.zip
+wget http://dist.springframework.org.s3.amazonaws.com/release/GRAILS/grails-2.0.4.zip
 clear
-unzip grails-2.0.0.zip
-clear
-wget http://dist.springframework.org.s3.amazonaws.com/release/GRAILS/grails-1.3.7.zip
-unzip grails-1.3.7.zip
+unzip grails-2.0.4.zip
 clear
 touch grails
 clear
